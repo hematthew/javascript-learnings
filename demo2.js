@@ -1,5 +1,6 @@
-if (homeless = true) {
-    console.log('Sleep on the street');
+const smartness = 450;
+if (smartness > 500) {
+    console.log('You suceeded');
 } else {
-    console.log('Go home to sleep');
+    console.log('You failed');
 };
