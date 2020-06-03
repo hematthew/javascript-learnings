@@ -1,6 +1,6 @@
-const city = 'New York City';
-function logCitySkyline() {
-    let skyscraper = 'Empire State Building';
-    return 'The stars over the ' + skyscraper + ' in ' + city;
-};
-console.log(logCitySkyline());
+const age = 15;
+if (age >= 18) {
+    console.log('Then you can drink alcohol!');
+} else {
+    console.log('You are illegal');
+}
