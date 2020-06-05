@@ -1,7 +1,4 @@
-const satellite = 'The Moon';
-const galaxy = 'The Milky Way';
-const stars = 'North Star';
-function callMyNightSky() {
-    return 'Night Sky: ' + satellite + ', ' + stars + ', and ' + galaxy;
-};
-console.log(callMyNightSky());
+console.log('Ten Pushups!');
+console.log('Baa Baa Black Sheep');
+console.log('This is Mona Lisa the painting');
+console.log('yi er san');
