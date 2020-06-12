@@ -15,8 +15,13 @@
 //     donaldTrump--) {
 //     console.log(donaldTrump);
 // }
-var donaldTrump = 50;
-while (donaldTrump >= 20) {
-    console.log(donaldTrump);
-    donaldTrump = donaldTrump - 1;
+// var donaldTrump = 50;
+// while (donaldTrump >= 20) {
+//     console.log(donaldTrump);
+//     donaldTrump = donaldTrump - 1;
+// }
+var num = 1;
+while (num < 50) {
+    console.log(num);
+    num = num + 4;
 }
