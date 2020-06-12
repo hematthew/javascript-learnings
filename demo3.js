@@ -20,8 +20,17 @@
 //     console.log(donaldTrump);
 //     donaldTrump = donaldTrump - 1;
 // }
-var num = 1;
-while (num < 50) {
-    console.log(num);
-    num = num + 4;
+// var num = 1;
+// while (num < 50) {
+//     console.log(num);
+//     num = num + 4;
+// }
+// for (let subtraction = 50; subtraction >= 1;
+//     subtraction - 3) {
+//     console.log(subtraction);
+// }
+var minus = 50;
+while (minus >= 1) {
+    console.log(minus);
+    minus = minus - 3;
 }
