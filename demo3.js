@@ -25,12 +25,12 @@
 //     console.log(num);
 //     num = num + 4;
 // }
-// for (let subtraction = 50; subtraction >= 1;
-//     subtraction - 3) {
-//     console.log(subtraction);
-// }
-var minus = 50;
-while (minus >= 1) {
-    console.log(minus);
-    minus = minus - 3;
+for (let subtraction = 50; subtraction >= 1;
+    subtraction = subtraction - 3) {
+    console.log(subtraction);
 }
+// var minus = 50;
+// while (minus >= 1) {
+//     console.log(minus);
+//     minus = minus - 3;
+// }
