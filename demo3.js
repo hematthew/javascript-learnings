@@ -39,13 +39,13 @@
 //     console.log(yum);
 //     yum = yum + 1;
 // }
-for (let sprite = 0; sprite <= 20; sprite++) {
-    if (sprite % 4 == 0) {
-        console.log(sprite);
-    }
-}
-// for (let i = 0; i <= 100; i++) {
-//     if (i % 8 == 0) {
-//         console.log(i);
+// for (let sprite = 0; sprite <= 20; sprite++) {
+//     if (sprite % 4 == 0) {
+//         console.log(sprite);
 //     }
 // }
+for (let i = 0; i <= 100; i++) {
+    if (i % 8 == 0) {
+        console.log(i);
+    }
+}
