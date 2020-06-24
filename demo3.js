@@ -34,18 +34,18 @@
 //     console.log(minus);
 //     minus = minus - 3;
 // }
-// var yum = 1;
-// while (yum <= 20) {
-//     console.log(yum);
-//     yum = yum + 1;
-// }
+var yum = 1;
+while (yum <= 20) {
+    console.log(yum);
+    yum = yum + 1;
+}
 // for (let sprite = 0; sprite <= 20; sprite++) {
 //     if (sprite % 4 == 0) {
 //         console.log(sprite);
 //     }
 // }
-for (let i = 0; i <= 100; i++) {
-    if (i % 8 == 0) {
-        console.log(i);
-    }
-}
+// for (let i = 0; i <= 100; i++) {
+//     if (i % 8 == 0) {
+//         console.log(i);
+//     }
+// }
