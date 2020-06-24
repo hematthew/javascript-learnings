@@ -3,13 +3,13 @@
 //         console.log(index);
 //     }
 // }
-// for (let i = 0; i <= 20; i++) {
-//     if (i % 2 == 0) {
-//         console.log(i);
-//     }
-// }
-for (let ind = 0; ind <= 20; ind++) {
-    if (ind % 2 !== 0) {
-        console.log(ind);
+for (let i = 0; i <= 20; i++) {
+    if (i % 2 == 0) {
+        console.log(i);
     }
 }
+// for (let ind = 0; ind <= 20; ind++) {
+//     if (ind % 2 !== 0) {
+//         console.log(ind);
+//     }
+// }
