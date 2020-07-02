@@ -6,6 +6,6 @@
 
 // console.log(fruits[2][1]);
 
-var item = ['mango', 'apple', [1, 4, 7, 0], ['lychee', 'watermelon'], 'lemon'];
+// var item = ['mango', 'apple', [1, 4, 7, 0], ['lychee', 'watermelon'], 'lemon'];
 
-console.log(item[2][3]);
+// console.log(item[2][3]);
