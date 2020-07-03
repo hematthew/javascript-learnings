@@ -7,7 +7,11 @@
 // console.log('I love eating ' + recipe.ingredients[3]);
 
 var ingredient = ['flour', 'eggs', 'milk', 'sugar'];
-console.log(ingredient[0]);
-console.log(ingredient[1]);
-console.log(ingredient[2]);
-console.log(ingredient[3]);
+// console.log(ingredient[0]);
+// console.log(ingredient[1]);
+// console.log(ingredient[2]);
+// console.log(ingredient[3]);
+
+for (let i = 0; i < ingredient.length; i++) {
+    console.log(ingredient[i]);
+}
