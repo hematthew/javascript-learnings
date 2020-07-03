@@ -12,6 +12,12 @@ var ingredient = ['flour', 'eggs', 'milk', 'sugar'];
 // console.log(ingredient[2]);
 // console.log(ingredient[3]);
 
-for (let i = 0; i < ingredient.length; i++) {
-    console.log(ingredient[i]);
-}
+// for (let i = 0; i < ingredient.length; i++) {
+//     console.log(ingredient[i]);
+// }
+
+// var result = ingredient.forEach(function (i) {
+//     console.log(i)
+// });
+
+var result = ingredient.forEach(i => console.log(i));
