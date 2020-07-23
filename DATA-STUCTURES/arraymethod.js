@@ -6,7 +6,7 @@
 // // console.log(recipe.ingredients[1]);
 // console.log('I love eating ' + recipe.ingredients[3]);
 
-var ingredient = ['flour', 'eggs', 'milk', 'sugar'];
+// var ingredient = ['flour', 'eggs', 'milk', 'sugar'];
 // console.log(ingredient[0]);
 // console.log(ingredient[1]);
 // console.log(ingredient[2]);
@@ -20,4 +20,4 @@ var ingredient = ['flour', 'eggs', 'milk', 'sugar'];
 //     console.log(i)
 // });
 
-var result = ingredient.forEach(i => console.log(i));
+// var result = ingredient.forEach(i => console.log(i));
